@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.cardtop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  text-align: center;
+  color: #ffffff;
+  background-color: #b5b9ff;
+  width: 400px;
+  height: 200px;
+  border-radius: 25px;
+}
+
+button {
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  border: none;
+}
